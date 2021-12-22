@@ -14,7 +14,7 @@ namespace Wish_CMD
         static  prints prints = new prints();
         static Register register = new Register();
         static MainClass mainClass = new MainClass();
-        static Program finance= new Program();
+   
 
         //####################################
         //#  Fertig:                         #
