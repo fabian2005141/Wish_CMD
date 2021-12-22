@@ -86,7 +86,7 @@ namespace Wish_CMD
                     id = "0";
                 }
 
-
+                //test
                 // Helpo !!!
                 //data_base.Add_data(string[])
                 
