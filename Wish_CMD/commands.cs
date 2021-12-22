@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Text;
-using Financen;
 using System.Security.Cryptography;
 
 
@@ -12,7 +11,6 @@ namespace Wish_CMD
         static MainClass MainClass = new MainClass();
         static prints prints = new prints();
         static commands Commands = new commands();
-        static Program finance = new Program();
         static Data data_base = new Data(@"D:\Dokumente\Projekte\C#\Wish_CMD\Wish_CMD\Saves\Data.txt");
         static Register register = new Register();
 
