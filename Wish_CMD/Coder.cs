@@ -19,7 +19,7 @@ namespace Wish_CMD
 
         public void manage(string path)
         {
-            this.Path = path;
+           //this.path = path;
         }
 
 
