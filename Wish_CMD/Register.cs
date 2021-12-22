@@ -11,7 +11,6 @@ namespace Wish_CMD
         static MainClass mainClass = new MainClass();
         static prints prints = new prints();
         static Register register = new Register();
-        private static Coder coder = new Coder();
         static int pw_fail = 0;
         static bool i = true;
 
