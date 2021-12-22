@@ -88,7 +88,7 @@ namespace Wish_CMD
 
 
                 // Helpo !!!
-                data_base.Add_data(string[])
+                //data_base.Add_data(string[])
                 
                 return;
             }
