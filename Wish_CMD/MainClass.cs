@@ -1,6 +1,5 @@
 ﻿using System;
 using System.IO;
-using Financen;
 
 
 namespace Wish_CMD
@@ -29,7 +28,7 @@ namespace Wish_CMD
 
 
 
-
+        
 
         public static void Main(string[] args)
         {
