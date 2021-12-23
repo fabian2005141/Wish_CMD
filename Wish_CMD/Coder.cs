@@ -21,7 +21,7 @@ namespace Wish_CMD
         {
            //this.path = path;
         }
-
+        
 
         static string[] Buffer = File.ReadAllLines(path);
         
